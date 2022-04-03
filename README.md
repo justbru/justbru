@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin Brunings, a second-year Computer Science major at California Polytechnic State University San Luis Obispo
 - 👀 I’m interested in artificial intelligence and finance (stock market). When I'm not focused on code, I enjoy swimming, cycling, hiking, playing the guitar, and spending time with friends
 - 🌱 I have a background in Java, Python, C, C++, and Assembly. I have knowledge of data structures, computer organization, and systems programming for each language and I am currently learning about discrete structures
-- 💞️ I’m looking to be consdidered for summer internship programs to explore the world of Computer Science and put my skills to the test!
+- 💞️ I am interning at Norhrop Grumman this summer as a Systems Engineer but I'm open for fall 2022 and summer 2023 recruiting!
 - 📫 You can reach me via email at jbruning@calpoly.edu or via cell at (425)-623-4167
 
 <!---
